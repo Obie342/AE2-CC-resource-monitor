@@ -1,4 +1,4 @@
-# AE2 CC Resource Monitor
+# AE2 CC: Tweaked Resource Monitor
 
 A real-time **Applied Energistics 2 resource dashboard** for **CC: Tweaked**, rendered on a resizable wall of Advanced Monitors through an **Advanced Peripherals ME Bridge**.
 
